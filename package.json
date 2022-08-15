@@ -20,5 +20,8 @@
   "homepage": "https://github.com/Mykaelas/u-develop-it#readme",
   "devDependencies": {
     "jest": "^28.1.3"
+  },
+  "dependencies": {
+    "mysql2": "^2.3.3"
   }
 }
